@@ -1,3 +1,5 @@
+![Fintech Payments Analytics Banner](00_docs/assets/project_banner.png)
+
 # Fintech Payments Analytics (Bronze/Silver/Gold + Power BI)
 
 Portfolio-grade payments analytics project simulating a fintech pipeline:
